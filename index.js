@@ -17,7 +17,7 @@ const config = {
     width: 800,
     height: 600,
     //scene:[Game7]
-    //scene:[Nivel1]
+    ////scene:[Nivel1]
     scene: [Game8,Game4,Nivel1,Game7]
     //scene: [ Boot, Instructions, StackerGame, GameOver ]
 };
